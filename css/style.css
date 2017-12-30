@@ -14,3 +14,8 @@ figcaption {
   color: rgba(171, 43, 45, 1);
   text-align: right;
 }
+
+.milk-text{
+  font: bold 2.6em 'Elsie Swash Caps', cursive;
+  
+}
